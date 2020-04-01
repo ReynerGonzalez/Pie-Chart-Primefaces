@@ -2,7 +2,7 @@
 
 Ejemplo de como implementar un grafico de Pie con Primefaces.
 
-![Screenshot](https://raw.githubusercontent.com/reynergonzalez/pie-chart-primefaces/master/screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/reynergonzalez/pie-chart-primefaces/master/assets/screenshot.png "Screenshot")
 
 ## Instalación
 
